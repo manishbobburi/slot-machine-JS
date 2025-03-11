@@ -1,7 +1,7 @@
 Slot-Machine-JS
 <br>
 <br>
-This program is written in JavaScript for a slot machine game. It allows users to:
+This program is a slot machine game. It allows users to:
 <br>
 1. Input a deposit amount.
 <br>
